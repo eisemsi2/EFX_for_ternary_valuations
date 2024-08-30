@@ -1,0 +1,1 @@
+# EFX_for_ternary_valuations
